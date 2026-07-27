@@ -1,0 +1,29 @@
+===========================================
+FinTrack Pro
+Smart Personal Finance Dashboard
+===========================================
+
+Developed By:
+Sasindran Paniksalvam
+
+Programming Language:
+Python 3.13
+
+Framework:
+Streamlit
+
+Database:
+SQLite
+
+Libraries:
+- Streamlit
+- Pandas
+- Plotly
+- Matplotlib
+- SQLAlchemy
+
+Project Description:
+FinTrack Pro is a web-based Smart Personal Finance Dashboard developed using Python and Streamlit. The system enables users to register, log in, manage income and expenses, import CSV files, monitor budgets, generate financial reports, and analyze spending habits through interactive charts and dashboards.
+
+Assignment:
+BIT1034 Advanced Programming Group Project
